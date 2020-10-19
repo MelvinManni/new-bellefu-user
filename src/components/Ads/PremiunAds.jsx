@@ -106,7 +106,6 @@ useEffect(() => {
 																		: "d-block" || data.plan === "Featured"
 																		? "d-block"
 																		: "d-none"
-																}`}>
 																}`}> Featured
 															</Badge>
 															<Badge
